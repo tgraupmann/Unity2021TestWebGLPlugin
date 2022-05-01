@@ -16,3 +16,17 @@ This is a Unity unit test of a WebGL project with a working WebGL plugin.
 * [Unity2021TestWebGLPlugin](https://github.com/tgraupmann/Unity2021TestWebGLPlugin) - WebGL Unit Test with a working WebGL plugin
 
 * [Unity2021TestWebGLPluginUnicode](https://github.com/tgraupmann/Unity2021TestWebGLPluginUnicode) - Bug: WebGL Unit Test that fails to build with unicode in a WebGL plugin
+
+## Scripts
+
+* C# - [Assets/Scripts/NewBehaviourScript.cs](Assets/Scripts/NewBehaviourScript.cs)
+
+* JS - [Assets/Plugins/NewBehaviourScript.jslib](Assets/Plugins/NewBehaviourScript.jslib)
+
+## Scenes
+
+* [Assets/Scenes/Scene1.unity](Assets/Scenes/Scene1.unity)
+
+## Screenshots
+
+![image_1](images/image_1.png)
