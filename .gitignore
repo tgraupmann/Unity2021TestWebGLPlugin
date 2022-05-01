@@ -1,0 +1,11 @@
+.vsconfig
+Unity2021TestWebGL.sln
+Build/
+Library/
+Logs/
+Packages/
+.vs/
+*.csproj
+UserSettings/
+Temp/
+obj/
