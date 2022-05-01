@@ -7,6 +7,8 @@ This is a Unity unit test of a WebGL project with a working WebGL plugin.
 
 * Unity Manual: [Interaction with browser scripting](https://docs.unity3d.com/Manual/webgl-interactingwithbrowserscripting.html)
 
+* Unity Manual: [Conditional Compilation](https://docs.unity3d.com/Manual/PlatformDependentCompilation.html)
+
 ## Related Unit Tests
 
 * [Unity2021TestWebGL](https://github.com/tgraupmann/Unity2021TestWebGL) - WebGL Unit Test with a GUI Label
